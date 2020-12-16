@@ -1,0 +1,7 @@
+Some points to remember:
+
+Original data is in "copy_of_data", in case you want to execute task again.
+Current date is set according to given document's date.
+By default only two folders "Bucket 1" and "Bucket 2" is included.
+
+I will explain more about code, modifications, parameters etc in next scheduled meeting.
